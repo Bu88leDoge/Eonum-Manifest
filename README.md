@@ -3,7 +3,7 @@
 
 **Author:** Rodion  
 **GitHub:** [Bu88leDoge](https://github.com/Bu88leDoge)  
-**Email:** roik2003_k@mail.ru  
+**Email:** rodik2003_k@mail.ru  
 **Date:** 2025-11-01  
 **Version:** 0.1.0
 
