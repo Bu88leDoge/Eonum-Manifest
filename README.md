@@ -39,5 +39,5 @@ Eonum не коммерческий продукт. Это фундамент д
 ---
 
 ## Contact
-> Concept & research inquiries: **roik2003_k@mail.ru**  
+> Concept & research inquiries: **rodik2003_k@mail.ru**  
 > Repository: [https://github.com/Bu88leDoge/Eonum-Manifest](https://github.com/Bu88leDoge/Eonum-Manifest)
