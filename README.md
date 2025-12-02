@@ -20,7 +20,7 @@
 
 ## Structure
 - [`Eonum-Manifest.md`](Eonum-Manifest.md) — основной философский и концептуальный документ проекта.  
-- [`LICENSE`](LICENSE) — текст лицензии **EOCL-1.0 (Eonum Open Concept License)**.  
+- [`LICENSE`](LICENSE.md) — текст лицензии **EOCL-1.0 (Eonum Open Concept License)**.  
 - [`metadata.json`](metadata.json) — метаданные и цифровая подпись (опционально, для IPFS / Arweave).
 
 ---
